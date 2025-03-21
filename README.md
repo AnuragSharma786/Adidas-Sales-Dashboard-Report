@@ -10,11 +10,10 @@ This project is an Adidas Sales Analysis & Dashboard created using Python and Ex
 The goal is to make data-driven decisions for sales optimization and profitability.
 
 🛠 Tools Used
-Python (Pandas, Matplotlib, Seaborn, NumPy) → Data Cleaning & Visualization
+Python (Pandas, Matplotlib) → Data Cleaning & Visualization
 
 Excel (Pivot Tables, Charts, Slicers, Conditional Formatting) → Dashboard Creation
 
-Jupyter Notebook/VS Code → For Python-based Data Analysis
 
 📈 Key Insights & Visuals
 ✅ Total Sales & Growth
